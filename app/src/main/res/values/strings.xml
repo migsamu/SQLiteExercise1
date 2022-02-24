@@ -2,5 +2,6 @@
     <string name="app_name">SQLiteExercise1</string>
     <string name="introduce_el_nombre">Introduce el nombre</string>
     <string name="et_titulo">Introduce el nombre de la base de datos</string>
+    <string name="et_crear_tabla">Introduce el nombre de la tabla</string>
     <string name="crear">crear</string>
 </resources>
